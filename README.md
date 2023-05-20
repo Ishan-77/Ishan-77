@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
      
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **Mobile Technology**
+- 💬 Ask me about **Open Source |Web Development **
 
 - 📫 How to reach me **ipurohit867@gmail.com**
 
